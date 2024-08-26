@@ -12,7 +12,6 @@ Antes de rodar os exercícios, instale a dependência necessária usando o segui
 
 ```shell
 npm install prompt-sync
-
 ```
 
 ## 🏃‍♂️ Execução dos Exercícios
