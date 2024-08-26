@@ -24,7 +24,7 @@ O repositório está organizado da seguinte forma:
 - **Estruturas de Repetição**: for, while, do while, for in, for of, forEach.
 - **Funções**: Definição, parâmetros, retorno.
 - **Arrays e Objetos**: Manipulação e métodos úteis.
-- **Estrutura de dados: Listas encadeadas simples e duplamente encadeadas.**
+- **Estrutura de dados**: Listas encadeadas simples e duplamente encadeadas.
 - **Algoritmos Básicos**: Ordenação, busca, etc.
 
 ## 🔧 Tecnologias Utilizadas
