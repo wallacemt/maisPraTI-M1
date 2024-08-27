@@ -18,12 +18,12 @@ npm install prompt-sync
  - Primeiro, faça o clone deste repositório para a sua máquina local:
 
 ```shell
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/wallacemt/maisPraTI-M1.git
 ```
 
  - Navegue até o Diretório do Projeto
 ```shell
-cd seu-repositorio
+cd maisPraTI-M1
 ```
 
 - Execute o comando abaixo para instalar o prompt-sync:
