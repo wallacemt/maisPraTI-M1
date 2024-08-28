@@ -7,7 +7,7 @@ const transactions = [
         value: 100
     },
     {
-        type: 'saiáda',
+        type: 'saída',
         value: 50
     },
     {
@@ -15,7 +15,7 @@ const transactions = [
         value: 200
     },
     {
-        type: 'saiáda',
+        type: 'saída',
         value: 100
     },
     {
