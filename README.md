@@ -1,7 +1,7 @@
 # 🎯Módulo 1 - Lógica de Programação com JavaScript
 
 Bem-vindo ao repositório do Módulo 1 do bootcamp Mais para TI! Este módulo é focado em lógica de programação utilizando JavaScript. Aqui você encontrará os exercícios e projetos desenvolvidos durante esta etapa do curso.
-<img src='https://encurtador.com.br/iDN7e'>
+<img src='https://drive.google.com/uc?export=view&id=1Fooc9CztSNlrtpbNYy4osQXuJNvS0uXb' width="800">
 ## 🚀 Objetivos do Módulo
 
 Neste módulo, o objetivo principal foi aprender e aplicar conceitos básicos de lógica de programação usando JavaScript. Ao final deste módulo, você deve ser capaz de:
